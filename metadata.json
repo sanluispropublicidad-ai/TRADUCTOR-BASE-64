@@ -1,0 +1,10 @@
+{
+  "name": " Prompt Translator CODIGO BASE 64",
+  "description": "Traductor y convertidor de Texto a Base64 y Base64 a Texto de alto rendimiento para textos grandes, sin dependencias de streaming ni límites de tokens.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
